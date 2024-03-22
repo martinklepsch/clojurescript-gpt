@@ -10,3 +10,14 @@ It's main feature is to generate idiomatic ClojureScript (and dialects like
 squint, cherry), based on Javascript code.
 
 It focuses on ClojureScript (and its dialects) only.
+
+
+## Contribute!
+
+This could be an interesting attempt at making ClojureScript more accessible
+and mitigate some of the downside of the smaller ecosystem. If you think that's cool,
+please consider contributing files in the `knowledge/` directory.
+
+I will try to update the GPT with new files quickly.
+
+![](https://badgen.net/badge/Last Update/2024-03-22/10a37f)
