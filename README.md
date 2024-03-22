@@ -1,6 +1,6 @@
 # ClojureScript GPT
 
-[![](https://badgen.net/badge/ClojureScript GPT/Open/10a37f)](https://chat.openai.com/g/g-17XaT40DC-clojurescript-gpt)
+[![](https://badgen.net/badge/ClojureScript%20GPT/Open/10a37f)](https://chat.openai.com/g/g-17XaT40DC-clojurescript-gpt)
 
 This is an attempt at creating a ClojureScript aware 'coding buddy' helping
 with some of the grunt work of working in an ecosystem that has less examples
@@ -28,4 +28,4 @@ You can also add specific files that are available on the web by extending the `
 
 I will try to update the GPT with new files quickly.
 
-![](https://badgen.net/badge/Last Update/2024-03-22/10a37f)
+![XX](https://badgen.net/badge/Last%20Update/2024-03-22/10a37f)
