@@ -11,6 +11,10 @@ squint, cherry), based on Javascript code.
 
 It focuses on ClojureScript (and its dialects) only.
 
+## It's not great (yet)
+
+Currently it will still try to use `core.async` when asking for squint code and
+things like that but I hope with expanding `knowledge/` that can be adjusted.
 
 ## Contribute!
 
