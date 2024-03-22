@@ -1,6 +1,6 @@
 # ClojureScript GPT
 
-[![](https://badgen.net/badge/ClojureScript%20GPT/Open/10a37f)](https://chat.openai.com/g/g-17XaT40DC-clojurescript-gpt)
+[![](https://badgen.net/badge/ClojureScript%20GPT/Open/10a37f)](https://bit.ly/clojurescript-gpt)
 
 This is an attempt at creating a ClojureScript aware 'coding buddy' helping
 with some of the grunt work of working in an ecosystem that has less examples
