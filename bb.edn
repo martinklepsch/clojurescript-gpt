@@ -1,0 +1,2 @@
+{:tasks {fetch (let [f (slurp "https://raw.githubusercontent.com/squint-cljs/squint/main/README.md")]
+                 (spit "knowledge/squint-readme.md" f))}}
